@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="лупа.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 26.458333 26.458334"
+   height="100"
+   width="100">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1021"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="215.39477"
+     inkscape:cx="-709.24829"
+     inkscape:zoom="0.49497475"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Слой 1">
+    <path
+       d="m 5.9341313,5.9251808 a 6.898065,6.898065 0 0 0 0.03069,9.7249562 6.898065,6.898065 0 0 0 9.0902427,0.584287 l 6.331417,6.331417 c 0.34598,0.345979 0.902984,0.345978 1.248963,0 0.345979,-0.345979 0.34598,-0.902984 0,-1.248963 l -6.331778,-6.331782 a 6.898065,6.898065 0 0 0 -0.583921,-9.0898784 6.898065,6.898065 0 0 0 -9.7556507,-10e-8 6.898065,6.898065 0 0 0 -0.02996,0.029963 z m 1.079414,1.0589512 3.65e-4,-3.654e-4 a 5.3861604,5.3861604 0 0 1 0.01973,-0.019732 5.3861604,5.3861604 0 0 1 7.6172857,0 5.3861604,5.3861604 0 0 1 -7.31e-4,7.6172854 5.3861604,5.3861604 0 0 1 -7.6161897,-3.65e-4 5.3861604,5.3861604 0 0 1 -0.02046,-7.596823 z"
+       style="fill:#b3b3b3;stroke-width:26.4583;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill;fill-opacity:1"
+       id="path10" />
+  </g>
+</svg>

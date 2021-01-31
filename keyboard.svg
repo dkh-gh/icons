@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50"
+   height="50"
+   viewBox="0 0 13.229166 13.229167"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="клавиатура.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1067"
+       x="-9.7928148e-05"
+       width="1.0001959"
+       y="-0.00018247045"
+       height="1.0003649">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.00099862062"
+         id="feGaussianBlur1069" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-9.9955811"
+     inkscape:cy="31.650536"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="898"
+     inkscape:window-height="693"
+     inkscape:window-x="1920"
+     inkscape:window-y="720"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect917"
+       style="fill:#b4b4b4;fill-opacity:1;stroke-width:99.9999;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill;filter:url(#filter1067)"
+       d="M 0.71484375,-1.0722656 C -1.0658705,-1.0722656 -2.5,0.3618639 -2.5,2.1425781 V 45.357422 c 0,1.780717 1.4341295,3.214844 3.21484375,3.214844 H 86.785156 C 88.565873,48.572266 90,47.138139 90,45.357422 V 2.1425781 C 90,0.3618639 88.565873,-1.0722656 86.785156,-1.0722656 Z M 5.3417969,5.3417969 H 12.160156 V 12.160156 H 5.3417969 Z m 10.0000001,0 h 6.818359 v 6.8183591 h -6.818359 z m 10,0 h 6.818359 v 6.8183591 h -6.818359 z m 10,0 h 6.818359 v 6.8183591 h -6.818359 z m 10,0 h 6.818359 v 6.8183591 h -6.818359 z m 10,0 h 6.818359 v 6.8183591 h -6.818359 z m 10,0 h 6.818359 v 6.8183591 h -6.818359 z m 10,0 h 6.818359 V 12.160156 H 75.341797 Z M 5.3417969,15.341797 h 6.8183591 v 6.818359 H 5.3417969 Z m 10.0000001,0 h 6.818359 v 6.818359 h -6.818359 z m 10,0 h 6.818359 v 6.818359 h -6.818359 z m 10,0 h 6.818359 v 6.818359 h -6.818359 z m 10,0 h 6.818359 v 6.818359 h -6.818359 z m 10,0 h 6.818359 v 6.818359 h -6.818359 z m 10,0 h 6.818359 v 6.818359 h -6.818359 z m 10,0 h 6.818359 v 6.818359 h -6.818359 z m -70.0000001,10 h 6.8183591 v 6.818359 H 5.3417969 Z m 10.0000001,0 h 6.818359 v 6.818359 h -6.818359 z m 10,0 h 6.818359 v 6.818359 h -6.818359 z m 10,0 h 6.818359 v 6.818359 h -6.818359 z m 10,0 h 6.818359 v 6.818359 h -6.818359 z m 10,0 h 6.818359 v 6.818359 h -6.818359 z m 10,0 h 6.818359 v 6.818359 h -6.818359 z m 10,0 h 6.818359 v 6.818359 h -6.818359 z m -60.074219,10 h 56.966797 v 6.818359 H 15.267578 Z"
+       transform="matrix(0.11236583,0,0,0.11236583,1.698578,3.9458948)" />
+  </g>
+</svg>
